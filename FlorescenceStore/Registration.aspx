@@ -75,6 +75,9 @@
         <h1>Register</h1>
         <p>Please fill in this form to create an account.</p>
         <hr>
+        
+        <label for="fullName"><b>Full Name</b></label>
+        <input type="text" placeholder="Enter Full Name" name="fullName" id="fullName" required>
 
         <label for="email"><b>Email</b></label>
         <input type="text" placeholder="Enter Email" name="email" id="email" required>
