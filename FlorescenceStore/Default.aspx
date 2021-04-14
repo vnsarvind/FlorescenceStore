@@ -21,7 +21,7 @@
         <div class="col-md-4">
             <h2>Suppliers</h2>
             <p>
-                The are the list of our major suppliers.....
+                The list of our major suppliers.....
             </p>
             <p>
                 <a class="btn btn-primary btn-sm" href="https://go.microsoft.com/fwlink/?LinkId=301949">Suppliers &raquo;</a>
